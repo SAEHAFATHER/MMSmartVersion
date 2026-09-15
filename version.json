@@ -1,6 +1,8 @@
 {
   "MMSmartShape3D": {
     "version": "1.3.9",
-    "download_url": "https://cafe.naver.com/lasertalktalk/84"
+    "download_url": "https://cafe.naver.com/lasertalktalk/84",
+    "manifest_base": "https://raw.githubusercontent.com/SAEHAFATHER/MMSmartVersion/main/MMSmartShape3D/manifest",
+    "blobs_base": "https://raw.githubusercontent.com/SAEHAFATHER/MMSmartVersion/main/MMSmartShape3D/blobs"
   }
 }
