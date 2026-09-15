@@ -1,0 +1,1429 @@
+{
+  "0": {
+    "pass_dxf": true,
+    "rings": 1,
+    "holes": 0,
+    "regions": 1,
+    "duplicate_edges": 0,
+    "zero_edges": 0,
+    "ring_contacts": 0,
+    "symmetric_difference_mm2": 0.0,
+    "boundary_distance_mm": [
+      0.0499811496946973,
+      0.05611142364679394
+    ],
+    "cleanup_area_change_mm2": 0.344770548341877,
+    "legacy_app_extra_area_mm2": 0.19640358591912427,
+    "source_self_crossing": false,
+    "source_end_gaps_mm": [
+      4.692845618598591
+    ],
+    "app_extra_area_mm2": 0.0,
+    "app_missing_area_mm2": 0.0,
+    "app_boundary_difference_mm": 0.0
+  },
+  "1": {
+    "pass_dxf": true,
+    "rings": 1,
+    "holes": 0,
+    "regions": 1,
+    "duplicate_edges": 0,
+    "zero_edges": 0,
+    "ring_contacts": 0,
+    "symmetric_difference_mm2": 0.0,
+    "boundary_distance_mm": [
+      0.04999969999999987,
+      0.05803185043891706
+    ],
+    "cleanup_area_change_mm2": 0.15733488788389424,
+    "legacy_app_extra_area_mm2": 0.08816411148220532,
+    "source_self_crossing": false,
+    "source_end_gaps_mm": [
+      5.589490137749596
+    ],
+    "app_extra_area_mm2": 0.0,
+    "app_missing_area_mm2": 0.0,
+    "app_boundary_difference_mm": 0.0
+  },
+  "2": {
+    "pass_dxf": true,
+    "rings": 1,
+    "holes": 0,
+    "regions": 1,
+    "duplicate_edges": 0,
+    "zero_edges": 0,
+    "ring_contacts": 0,
+    "symmetric_difference_mm2": 0.0,
+    "boundary_distance_mm": [
+      0.04988128995723512,
+      0.05861046872945043
+    ],
+    "cleanup_area_change_mm2": 0.07855330047532201,
+    "legacy_app_extra_area_mm2": 0.056649534043137995,
+    "source_self_crossing": false,
+    "source_end_gaps_mm": [
+      6.751570138494399
+    ],
+    "app_extra_area_mm2": 0.0,
+    "app_missing_area_mm2": 0.0,
+    "app_boundary_difference_mm": 0.0
+  },
+  "3": {
+    "pass_dxf": true,
+    "rings": 1,
+    "holes": 0,
+    "regions": 1,
+    "duplicate_edges": 0,
+    "zero_edges": 0,
+    "ring_contacts": 0,
+    "symmetric_difference_mm2": 0.0,
+    "boundary_distance_mm": [
+      0.0498789999723558,
+      0.05640584389507011
+    ],
+    "cleanup_area_change_mm2": 0.21063309731296243,
+    "legacy_app_extra_area_mm2": 0.1340983681537112,
+    "source_self_crossing": false,
+    "source_end_gaps_mm": [
+      3.874543704012346
+    ],
+    "app_extra_area_mm2": 0.0,
+    "app_missing_area_mm2": 0.0,
+    "app_boundary_difference_mm": 0.0
+  },
+  "4": {
+    "pass_dxf": true,
+    "rings": 1,
+    "holes": 0,
+    "regions": 1,
+    "duplicate_edges": 0,
+    "zero_edges": 0,
+    "ring_contacts": 0,
+    "symmetric_difference_mm2": 0.0,
+    "boundary_distance_mm": [
+      0.049999954196411345,
+      0.07071071050669024
+    ],
+    "cleanup_area_change_mm2": 0.09590164182278747,
+    "legacy_app_extra_area_mm2": 0.060402089962246636,
+    "source_self_crossing": false,
+    "source_end_gaps_mm": [
+      1.9190883252211188
+    ],
+    "app_extra_area_mm2": 0.0,
+    "app_missing_area_mm2": 0.0,
+    "app_boundary_difference_mm": 0.0
+  },
+  "5": {
+    "pass_dxf": true,
+    "rings": 1,
+    "holes": 0,
+    "regions": 1,
+    "duplicate_edges": 0,
+    "zero_edges": 0,
+    "ring_contacts": 0,
+    "symmetric_difference_mm2": 0.0,
+    "boundary_distance_mm": [
+      0.04988290012355594,
+      0.06460957133719254
+    ],
+    "cleanup_area_change_mm2": 0.30873499374369584,
+    "legacy_app_extra_area_mm2": 0.17781055302118673,
+    "source_self_crossing": false,
+    "source_end_gaps_mm": [
+      7.108360839937402
+    ],
+    "app_extra_area_mm2": 0.0,
+    "app_missing_area_mm2": 0.0,
+    "app_boundary_difference_mm": 0.0
+  },
+  "6": {
+    "pass_dxf": true,
+    "rings": 1,
+    "holes": 0,
+    "regions": 1,
+    "duplicate_edges": 0,
+    "zero_edges": 0,
+    "ring_contacts": 0,
+    "symmetric_difference_mm2": 0.0,
+    "boundary_distance_mm": [
+      0.04988011601945277,
+      0.05052159959743314
+    ],
+    "cleanup_area_change_mm2": 0.24031531407160112,
+    "legacy_app_extra_area_mm2": 0.14538609840058123,
+    "source_self_crossing": false,
+    "source_end_gaps_mm": [
+      4.447878984165057
+    ],
+    "app_extra_area_mm2": 0.0,
+    "app_missing_area_mm2": 0.0,
+    "app_boundary_difference_mm": 0.0
+  },
+  "7": {
+    "pass_dxf": true,
+    "rings": 1,
+    "holes": 0,
+    "regions": 1,
+    "duplicate_edges": 0,
+    "zero_edges": 0,
+    "ring_contacts": 0,
+    "symmetric_difference_mm2": 0.0,
+    "boundary_distance_mm": [
+      0.04999973023634595,
+      0.06468052816261978
+    ],
+    "cleanup_area_change_mm2": 0.20479255589327508,
+    "legacy_app_extra_area_mm2": 0.11446353416896506,
+    "source_self_crossing": false,
+    "source_end_gaps_mm": [
+      6.02
+    ],
+    "app_extra_area_mm2": 0.0,
+    "app_missing_area_mm2": 0.0,
+    "app_boundary_difference_mm": 0.0
+  },
+  "8": {
+    "pass_dxf": true,
+    "rings": 1,
+    "holes": 0,
+    "regions": 1,
+    "duplicate_edges": 0,
+    "zero_edges": 0,
+    "ring_contacts": 0,
+    "symmetric_difference_mm2": 0.0,
+    "boundary_distance_mm": [
+      0.0497447909862451,
+      0.05055598300600105
+    ],
+    "cleanup_area_change_mm2": 0.2555342916673513,
+    "legacy_app_extra_area_mm2": 0.16064616280758945,
+    "source_self_crossing": false,
+    "source_end_gaps_mm": [
+      1.3156133506424665
+    ],
+    "app_extra_area_mm2": 0.0,
+    "app_missing_area_mm2": 0.0,
+    "app_boundary_difference_mm": 0.0
+  },
+  "9": {
+    "pass_dxf": true,
+    "rings": 1,
+    "holes": 0,
+    "regions": 1,
+    "duplicate_edges": 0,
+    "zero_edges": 0,
+    "ring_contacts": 0,
+    "symmetric_difference_mm2": 0.0,
+    "boundary_distance_mm": [
+      0.04978100537857477,
+      0.05048963971953878
+    ],
+    "cleanup_area_change_mm2": 0.2520365652245696,
+    "legacy_app_extra_area_mm2": 0.14607097097791855,
+    "source_self_crossing": false,
+    "source_end_gaps_mm": [
+      1.5622602086083905,
+      5.637510616300958
+    ],
+    "app_extra_area_mm2": 0.0,
+    "app_missing_area_mm2": 0.0,
+    "app_boundary_difference_mm": 0.0
+  },
+  "A": {
+    "pass_dxf": true,
+    "rings": 1,
+    "holes": 0,
+    "regions": 1,
+    "duplicate_edges": 0,
+    "zero_edges": 0,
+    "ring_contacts": 0,
+    "symmetric_difference_mm2": 0.0,
+    "boundary_distance_mm": [
+      0.049998399999999776,
+      0.06152691989802762
+    ],
+    "cleanup_area_change_mm2": 0.10200663581958817,
+    "legacy_app_extra_area_mm2": 0.06757090190362233,
+    "source_self_crossing": false,
+    "source_end_gaps_mm": [
+      2.502966687752756
+    ],
+    "app_extra_area_mm2": 0.0,
+    "app_missing_area_mm2": 0.0,
+    "app_boundary_difference_mm": 0.0
+  },
+  "B": {
+    "pass_dxf": true,
+    "rings": 1,
+    "holes": 0,
+    "regions": 1,
+    "duplicate_edges": 0,
+    "zero_edges": 0,
+    "ring_contacts": 0,
+    "symmetric_difference_mm2": 0.0,
+    "boundary_distance_mm": [
+      0.04955540000000003,
+      0.0682553252959625
+    ],
+    "cleanup_area_change_mm2": 0.1860458849545017,
+    "legacy_app_extra_area_mm2": 0.12110354051691027,
+    "source_self_crossing": false,
+    "source_end_gaps_mm": [
+      0.4
+    ],
+    "app_extra_area_mm2": 0.0,
+    "app_missing_area_mm2": 0.0,
+    "app_boundary_difference_mm": 0.0
+  },
+  "C": {
+    "pass_dxf": true,
+    "rings": 1,
+    "holes": 0,
+    "regions": 1,
+    "duplicate_edges": 0,
+    "zero_edges": 0,
+    "ring_contacts": 0,
+    "symmetric_difference_mm2": 0.0,
+    "boundary_distance_mm": [
+      0.04988163462063228,
+      0.05047749483461828
+    ],
+    "cleanup_area_change_mm2": 0.2597467474358365,
+    "legacy_app_extra_area_mm2": 0.15065457831506593,
+    "source_self_crossing": false,
+    "source_end_gaps_mm": [
+      2.800000009595034
+    ],
+    "app_extra_area_mm2": 0.0,
+    "app_missing_area_mm2": 0.0,
+    "app_boundary_difference_mm": 0.0
+  },
+  "D": {
+    "pass_dxf": true,
+    "rings": 1,
+    "holes": 0,
+    "regions": 1,
+    "duplicate_edges": 0,
+    "zero_edges": 0,
+    "ring_contacts": 0,
+    "symmetric_difference_mm2": 0.0,
+    "boundary_distance_mm": [
+      0.04999995223801713,
+      0.05664639130044809
+    ],
+    "cleanup_area_change_mm2": 0.15493108246989104,
+    "legacy_app_extra_area_mm2": 0.09346239533732077,
+    "source_self_crossing": false,
+    "source_end_gaps_mm": [
+      0.5
+    ],
+    "app_extra_area_mm2": 0.0,
+    "app_missing_area_mm2": 0.0,
+    "app_boundary_difference_mm": 0.0
+  },
+  "E": {
+    "pass_dxf": true,
+    "rings": 1,
+    "holes": 0,
+    "regions": 1,
+    "duplicate_edges": 0,
+    "zero_edges": 0,
+    "ring_contacts": 0,
+    "symmetric_difference_mm2": 0.0,
+    "boundary_distance_mm": [
+      0.04999999999999937,
+      0.057669357491266136
+    ],
+    "cleanup_area_change_mm2": 0.06204641479688214,
+    "legacy_app_extra_area_mm2": 0.0513714576640104,
+    "source_self_crossing": false,
+    "source_end_gaps_mm": [
+      7.002856560004639
+    ],
+    "app_extra_area_mm2": 0.0,
+    "app_missing_area_mm2": 0.0,
+    "app_boundary_difference_mm": 0.0
+  },
+  "F": {
+    "pass_dxf": true,
+    "rings": 1,
+    "holes": 0,
+    "regions": 1,
+    "duplicate_edges": 0,
+    "zero_edges": 0,
+    "ring_contacts": 0,
+    "symmetric_difference_mm2": 0.0,
+    "boundary_distance_mm": [
+      0.0499992,
+      0.05880627235449775
+    ],
+    "cleanup_area_change_mm2": 0.19175314817172276,
+    "legacy_app_extra_area_mm2": 0.11403070933037514,
+    "source_self_crossing": false,
+    "source_end_gaps_mm": [
+      8.16333265278342
+    ],
+    "app_extra_area_mm2": 0.0,
+    "app_missing_area_mm2": 0.0,
+    "app_boundary_difference_mm": 0.0
+  },
+  "G": {
+    "pass_dxf": true,
+    "rings": 1,
+    "holes": 0,
+    "regions": 1,
+    "duplicate_edges": 0,
+    "zero_edges": 0,
+    "ring_contacts": 0,
+    "symmetric_difference_mm2": 0.0,
+    "boundary_distance_mm": [
+      0.04987977779686685,
+      0.05726460732618107
+    ],
+    "cleanup_area_change_mm2": 0.2071932162568525,
+    "legacy_app_extra_area_mm2": 0.1265016671930917,
+    "source_self_crossing": false,
+    "source_end_gaps_mm": [
+      3.159272854790185
+    ],
+    "app_extra_area_mm2": 0.0,
+    "app_missing_area_mm2": 0.0,
+    "app_boundary_difference_mm": 0.0
+  },
+  "H": {
+    "pass_dxf": true,
+    "rings": 1,
+    "holes": 0,
+    "regions": 1,
+    "duplicate_edges": 0,
+    "zero_edges": 0,
+    "ring_contacts": 0,
+    "symmetric_difference_mm2": 0.0,
+    "boundary_distance_mm": [
+      0.0499999,
+      0.06302359142360402
+    ],
+    "cleanup_area_change_mm2": 0.11307865676586083,
+    "legacy_app_extra_area_mm2": 0.07680935691913429,
+    "source_self_crossing": false,
+    "source_end_gaps_mm": [
+      4.2
+    ],
+    "app_extra_area_mm2": 0.0,
+    "app_missing_area_mm2": 0.0,
+    "app_boundary_difference_mm": 0.0
+  },
+  "I": {
+    "pass_dxf": true,
+    "rings": 1,
+    "holes": 0,
+    "regions": 1,
+    "duplicate_edges": 0,
+    "zero_edges": 0,
+    "ring_contacts": 0,
+    "symmetric_difference_mm2": 0.0,
+    "boundary_distance_mm": [
+      0.05,
+      0.05
+    ],
+    "cleanup_area_change_mm2": 0.007848375507617165,
+    "legacy_app_extra_area_mm2": 0.009999999999999985,
+    "source_self_crossing": false,
+    "source_end_gaps_mm": [
+      7.0
+    ],
+    "app_extra_area_mm2": 0.0,
+    "app_missing_area_mm2": 0.0,
+    "app_boundary_difference_mm": 0.0
+  },
+  "J": {
+    "pass_dxf": true,
+    "rings": 1,
+    "holes": 0,
+    "regions": 1,
+    "duplicate_edges": 0,
+    "zero_edges": 0,
+    "ring_contacts": 0,
+    "symmetric_difference_mm2": 0.0,
+    "boundary_distance_mm": [
+      0.04987908334502897,
+      0.0504877394245704
+    ],
+    "cleanup_area_change_mm2": 0.05928312795384162,
+    "legacy_app_extra_area_mm2": 0.04046168518952959,
+    "source_self_crossing": false,
+    "source_end_gaps_mm": [
+      7.334984400518397
+    ],
+    "app_extra_area_mm2": 0.0,
+    "app_missing_area_mm2": 0.0,
+    "app_boundary_difference_mm": 0.0
+  },
+  "K": {
+    "pass_dxf": true,
+    "rings": 1,
+    "holes": 0,
+    "regions": 1,
+    "duplicate_edges": 0,
+    "zero_edges": 0,
+    "ring_contacts": 0,
+    "symmetric_difference_mm2": 0.0,
+    "boundary_distance_mm": [
+      0.04994973449798299,
+      0.05859522226508741
+    ],
+    "cleanup_area_change_mm2": 0.13704828704931574,
+    "legacy_app_extra_area_mm2": 0.09044006971904019,
+    "source_self_crossing": false,
+    "source_end_gaps_mm": [
+      4.2
+    ],
+    "app_extra_area_mm2": 0.0,
+    "app_missing_area_mm2": 0.0,
+    "app_boundary_difference_mm": 0.0
+  },
+  "L": {
+    "pass_dxf": true,
+    "rings": 1,
+    "holes": 0,
+    "regions": 1,
+    "duplicate_edges": 0,
+    "zero_edges": 0,
+    "ring_contacts": 0,
+    "symmetric_difference_mm2": 0.0,
+    "boundary_distance_mm": [
+      0.0499999,
+      0.057702911002542386
+    ],
+    "cleanup_area_change_mm2": 0.1022341191026665,
+    "legacy_app_extra_area_mm2": 0.05972392458368535,
+    "source_self_crossing": false,
+    "source_end_gaps_mm": [
+      7.955400681298208
+    ],
+    "app_extra_area_mm2": 0.0,
+    "app_missing_area_mm2": 0.0,
+    "app_boundary_difference_mm": 0.0
+  },
+  "M": {
+    "pass_dxf": true,
+    "rings": 1,
+    "holes": 0,
+    "regions": 1,
+    "duplicate_edges": 0,
+    "zero_edges": 0,
+    "ring_contacts": 0,
+    "symmetric_difference_mm2": 0.0,
+    "boundary_distance_mm": [
+      0.0499999,
+      0.059206680231391424
+    ],
+    "cleanup_area_change_mm2": 0.11374758469207785,
+    "legacy_app_extra_area_mm2": 0.07446003229234856,
+    "source_self_crossing": false,
+    "source_end_gaps_mm": [
+      4.62
+    ],
+    "app_extra_area_mm2": 0.0,
+    "app_missing_area_mm2": 0.0,
+    "app_boundary_difference_mm": 0.0
+  },
+  "N": {
+    "pass_dxf": true,
+    "rings": 1,
+    "holes": 0,
+    "regions": 1,
+    "duplicate_edges": 0,
+    "zero_edges": 0,
+    "ring_contacts": 0,
+    "symmetric_difference_mm2": 0.0,
+    "boundary_distance_mm": [
+      0.04999989999999999,
+      0.05852494297241599
+    ],
+    "cleanup_area_change_mm2": 0.11181307906604146,
+    "legacy_app_extra_area_mm2": 0.0696544356641225,
+    "source_self_crossing": false,
+    "source_end_gaps_mm": [
+      7.992496481075234
+    ],
+    "app_extra_area_mm2": 0.0,
+    "app_missing_area_mm2": 0.0,
+    "app_boundary_difference_mm": 0.0
+  },
+  "O": {
+    "pass_dxf": true,
+    "rings": 1,
+    "holes": 0,
+    "regions": 1,
+    "duplicate_edges": 0,
+    "zero_edges": 0,
+    "ring_contacts": 0,
+    "symmetric_difference_mm2": 0.0,
+    "boundary_distance_mm": [
+      0.04988339338896893,
+      0.050472172948839274
+    ],
+    "cleanup_area_change_mm2": 0.21071886187579714,
+    "legacy_app_extra_area_mm2": 0.12573807142060917,
+    "source_self_crossing": false,
+    "source_end_gaps_mm": [
+      0.2997460511460096
+    ],
+    "app_extra_area_mm2": 0.0,
+    "app_missing_area_mm2": 0.0,
+    "app_boundary_difference_mm": 0.0
+  },
+  "P": {
+    "pass_dxf": true,
+    "rings": 1,
+    "holes": 0,
+    "regions": 1,
+    "duplicate_edges": 0,
+    "zero_edges": 0,
+    "ring_contacts": 0,
+    "symmetric_difference_mm2": 0.0,
+    "boundary_distance_mm": [
+      0.04999939999999991,
+      0.05770291100254234
+    ],
+    "cleanup_area_change_mm2": 0.18764654684517293,
+    "legacy_app_extra_area_mm2": 0.10972762838623978,
+    "source_self_crossing": false,
+    "source_end_gaps_mm": [
+      3.5288099977187777
+    ],
+    "app_extra_area_mm2": 0.0,
+    "app_missing_area_mm2": 0.0,
+    "app_boundary_difference_mm": 0.0
+  },
+  "Q": {
+    "pass_dxf": true,
+    "rings": 1,
+    "holes": 0,
+    "regions": 1,
+    "duplicate_edges": 0,
+    "zero_edges": 0,
+    "ring_contacts": 0,
+    "symmetric_difference_mm2": 0.0,
+    "boundary_distance_mm": [
+      0.04989163560550508,
+      0.06226656821499863
+    ],
+    "cleanup_area_change_mm2": 0.2761653431118767,
+    "legacy_app_extra_area_mm2": 0.16599627320913002,
+    "source_self_crossing": false,
+    "source_end_gaps_mm": [
+      0.987864951036537
+    ],
+    "app_extra_area_mm2": 0.0,
+    "app_missing_area_mm2": 0.0,
+    "app_boundary_difference_mm": 0.0
+  },
+  "R": {
+    "pass_dxf": true,
+    "rings": 1,
+    "holes": 0,
+    "regions": 1,
+    "duplicate_edges": 0,
+    "zero_edges": 0,
+    "ring_contacts": 0,
+    "symmetric_difference_mm2": 0.0,
+    "boundary_distance_mm": [
+      0.049934899999999775,
+      0.05859530766510545
+    ],
+    "cleanup_area_change_mm2": 0.10980785046181347,
+    "legacy_app_extra_area_mm2": 0.07730537565733626,
+    "source_self_crossing": false,
+    "source_end_gaps_mm": [
+      4.154812394261502
+    ],
+    "app_extra_area_mm2": 0.0,
+    "app_missing_area_mm2": 0.0,
+    "app_boundary_difference_mm": 0.0
+  },
+  "S": {
+    "pass_dxf": true,
+    "rings": 1,
+    "holes": 0,
+    "regions": 1,
+    "duplicate_edges": 0,
+    "zero_edges": 0,
+    "ring_contacts": 0,
+    "symmetric_difference_mm2": 0.0,
+    "boundary_distance_mm": [
+      0.04989483508918688,
+      0.050475483650242785
+    ],
+    "cleanup_area_change_mm2": 0.19930745098111025,
+    "legacy_app_extra_area_mm2": 0.12243803821746731,
+    "source_self_crossing": false,
+    "source_end_gaps_mm": [
+      6.263579830228395
+    ],
+    "app_extra_area_mm2": 0.0,
+    "app_missing_area_mm2": 0.0,
+    "app_boundary_difference_mm": 0.0
+  },
+  "T": {
+    "pass_dxf": true,
+    "rings": 1,
+    "holes": 0,
+    "regions": 1,
+    "duplicate_edges": 0,
+    "zero_edges": 0,
+    "ring_contacts": 0,
+    "symmetric_difference_mm2": 0.0,
+    "boundary_distance_mm": [
+      0.04999239999999983,
+      0.0588472864396004
+    ],
+    "cleanup_area_change_mm2": 0.04086330217198801,
+    "legacy_app_extra_area_mm2": 0.03390646914436093,
+    "source_self_crossing": false,
+    "source_end_gaps_mm": [
+      7.3082145562373855
+    ],
+    "app_extra_area_mm2": 0.0,
+    "app_missing_area_mm2": 0.0,
+    "app_boundary_difference_mm": 0.0
+  },
+  "U": {
+    "pass_dxf": true,
+    "rings": 1,
+    "holes": 0,
+    "regions": 1,
+    "duplicate_edges": 0,
+    "zero_edges": 0,
+    "ring_contacts": 0,
+    "symmetric_difference_mm2": 0.0,
+    "boundary_distance_mm": [
+      0.04999994169510256,
+      0.05047216631486388
+    ],
+    "cleanup_area_change_mm2": 0.10961669357314853,
+    "legacy_app_extra_area_mm2": 0.06833790247091558,
+    "source_self_crossing": false,
+    "source_end_gaps_mm": [
+      4.210700654285461
+    ],
+    "app_extra_area_mm2": 0.0,
+    "app_missing_area_mm2": 0.0,
+    "app_boundary_difference_mm": 0.0
+  },
+  "V": {
+    "pass_dxf": true,
+    "rings": 1,
+    "holes": 0,
+    "regions": 1,
+    "duplicate_edges": 0,
+    "zero_edges": 0,
+    "ring_contacts": 0,
+    "symmetric_difference_mm2": 0.0,
+    "boundary_distance_mm": [
+      0.04999997485068538,
+      0.062321323176439396
+    ],
+    "cleanup_area_change_mm2": 0.014084786461666561,
+    "legacy_app_extra_area_mm2": 0.017215626782464712,
+    "source_self_crossing": false,
+    "source_end_gaps_mm": [
+      4.2
+    ],
+    "app_extra_area_mm2": 0.0,
+    "app_missing_area_mm2": 0.0,
+    "app_boundary_difference_mm": 0.0
+  },
+  "W": {
+    "pass_dxf": true,
+    "rings": 1,
+    "holes": 0,
+    "regions": 1,
+    "duplicate_edges": 0,
+    "zero_edges": 0,
+    "ring_contacts": 0,
+    "symmetric_difference_mm2": 0.0,
+    "boundary_distance_mm": [
+      0.05000000726641683,
+      0.06367040000000035
+    ],
+    "cleanup_area_change_mm2": 0.07767375899129798,
+    "legacy_app_extra_area_mm2": 0.05757287608854184,
+    "source_self_crossing": false,
+    "source_end_gaps_mm": [
+      6.656383299119725
+    ],
+    "app_extra_area_mm2": 0.0,
+    "app_missing_area_mm2": 0.0,
+    "app_boundary_difference_mm": 0.0
+  },
+  "X": {
+    "pass_dxf": true,
+    "rings": 1,
+    "holes": 0,
+    "regions": 1,
+    "duplicate_edges": 0,
+    "zero_edges": 0,
+    "ring_contacts": 0,
+    "symmetric_difference_mm2": 0.0,
+    "boundary_distance_mm": [
+      0.04999996366373106,
+      0.09395469999999939
+    ],
+    "cleanup_area_change_mm2": 0.011597570926764991,
+    "legacy_app_extra_area_mm2": 0.013828348725486826,
+    "source_self_crossing": false,
+    "source_end_gaps_mm": [
+      4.2
+    ],
+    "app_extra_area_mm2": 0.0,
+    "app_missing_area_mm2": 0.0,
+    "app_boundary_difference_mm": 0.0
+  },
+  "Y": {
+    "pass_dxf": true,
+    "rings": 1,
+    "holes": 0,
+    "regions": 1,
+    "duplicate_edges": 0,
+    "zero_edges": 0,
+    "ring_contacts": 0,
+    "symmetric_difference_mm2": 0.0,
+    "boundary_distance_mm": [
+      0.04999996965318983,
+      0.0541196
+    ],
+    "cleanup_area_change_mm2": 0.01871483149496307,
+    "legacy_app_extra_area_mm2": 0.022233092643210023,
+    "source_self_crossing": false,
+    "source_end_gaps_mm": [
+      4.06554206983829
+    ],
+    "app_extra_area_mm2": 0.0,
+    "app_missing_area_mm2": 0.0,
+    "app_boundary_difference_mm": 0.0
+  },
+  "Z": {
+    "pass_dxf": true,
+    "rings": 1,
+    "holes": 0,
+    "regions": 1,
+    "duplicate_edges": 0,
+    "zero_edges": 0,
+    "ring_contacts": 0,
+    "symmetric_difference_mm2": 0.0,
+    "boundary_distance_mm": [
+      0.04997664093462845,
+      0.05787600806259621
+    ],
+    "cleanup_area_change_mm2": 0.11943151158023667,
+    "legacy_app_extra_area_mm2": 0.07221906449744962,
+    "source_self_crossing": false,
+    "source_end_gaps_mm": [
+      8.06225774829855
+    ],
+    "app_extra_area_mm2": 0.0,
+    "app_missing_area_mm2": 0.0,
+    "app_boundary_difference_mm": 0.0
+  },
+  "a": {
+    "pass_dxf": true,
+    "rings": 1,
+    "holes": 0,
+    "regions": 1,
+    "duplicate_edges": 0,
+    "zero_edges": 0,
+    "ring_contacts": 0,
+    "symmetric_difference_mm2": 0.0,
+    "boundary_distance_mm": [
+      0.04827327135772941,
+      0.05284200586399436
+    ],
+    "cleanup_area_change_mm2": 0.1588344961505962,
+    "legacy_app_extra_area_mm2": 0.10146539786526021,
+    "source_self_crossing": false,
+    "source_end_gaps_mm": [
+      0.6735803212612758
+    ],
+    "app_extra_area_mm2": 0.0,
+    "app_missing_area_mm2": 0.0,
+    "app_boundary_difference_mm": 0.0
+  },
+  "b": {
+    "pass_dxf": true,
+    "rings": 1,
+    "holes": 0,
+    "regions": 1,
+    "duplicate_edges": 0,
+    "zero_edges": 0,
+    "ring_contacts": 0,
+    "symmetric_difference_mm2": 0.0,
+    "boundary_distance_mm": [
+      0.04955452976309665,
+      0.051154530668974324
+    ],
+    "cleanup_area_change_mm2": 0.1805633417207235,
+    "legacy_app_extra_area_mm2": 0.10982513266209562,
+    "source_self_crossing": false,
+    "source_end_gaps_mm": [
+      1.8047279812545165
+    ],
+    "app_extra_area_mm2": 0.0,
+    "app_missing_area_mm2": 0.0,
+    "app_boundary_difference_mm": 0.0
+  },
+  "c": {
+    "pass_dxf": true,
+    "rings": 1,
+    "holes": 0,
+    "regions": 1,
+    "duplicate_edges": 0,
+    "zero_edges": 0,
+    "ring_contacts": 0,
+    "symmetric_difference_mm2": 0.0,
+    "boundary_distance_mm": [
+      0.04954250291537975,
+      0.05110999944822092
+    ],
+    "cleanup_area_change_mm2": 0.16041957131472973,
+    "legacy_app_extra_area_mm2": 0.09859369926064536,
+    "source_self_crossing": false,
+    "source_end_gaps_mm": [
+      1.8450560595917702
+    ],
+    "app_extra_area_mm2": 0.0,
+    "app_missing_area_mm2": 0.0,
+    "app_boundary_difference_mm": 0.0
+  },
+  "d": {
+    "pass_dxf": true,
+    "rings": 1,
+    "holes": 0,
+    "regions": 1,
+    "duplicate_edges": 0,
+    "zero_edges": 0,
+    "ring_contacts": 0,
+    "symmetric_difference_mm2": 0.0,
+    "boundary_distance_mm": [
+      0.049530012741081465,
+      0.05107826496325727
+    ],
+    "cleanup_area_change_mm2": 0.14731117243347153,
+    "legacy_app_extra_area_mm2": 0.0930012085976876,
+    "source_self_crossing": false,
+    "source_end_gaps_mm": [
+      1.844545547441869
+    ],
+    "app_extra_area_mm2": 0.0,
+    "app_missing_area_mm2": 0.0,
+    "app_boundary_difference_mm": 0.0
+  },
+  "e": {
+    "pass_dxf": true,
+    "rings": 1,
+    "holes": 0,
+    "regions": 1,
+    "duplicate_edges": 0,
+    "zero_edges": 0,
+    "ring_contacts": 0,
+    "symmetric_difference_mm2": 0.0,
+    "boundary_distance_mm": [
+      0.04988069107513211,
+      0.05781717197281491
+    ],
+    "cleanup_area_change_mm2": 0.18025742179679544,
+    "legacy_app_extra_area_mm2": 0.11192619180389667,
+    "source_self_crossing": false,
+    "source_end_gaps_mm": [
+      2.0965962987739983
+    ],
+    "app_extra_area_mm2": 0.0,
+    "app_missing_area_mm2": 0.0,
+    "app_boundary_difference_mm": 0.0
+  },
+  "f": {
+    "pass_dxf": true,
+    "rings": 1,
+    "holes": 0,
+    "regions": 1,
+    "duplicate_edges": 0,
+    "zero_edges": 0,
+    "ring_contacts": 0,
+    "symmetric_difference_mm2": 0.0,
+    "boundary_distance_mm": [
+      0.049999899999999986,
+      0.061512233638927265
+    ],
+    "cleanup_area_change_mm2": 0.07829700072534118,
+    "legacy_app_extra_area_mm2": 0.06792498126818279,
+    "source_self_crossing": false,
+    "source_end_gaps_mm": [
+      2.9815244258150897
+    ],
+    "app_extra_area_mm2": 0.0,
+    "app_missing_area_mm2": 0.0,
+    "app_boundary_difference_mm": 0.0
+  },
+  "g": {
+    "pass_dxf": true,
+    "rings": 1,
+    "holes": 0,
+    "regions": 1,
+    "duplicate_edges": 0,
+    "zero_edges": 0,
+    "ring_contacts": 0,
+    "symmetric_difference_mm2": 0.0,
+    "boundary_distance_mm": [
+      0.04987255153276842,
+      0.05875055912036062
+    ],
+    "cleanup_area_change_mm2": 0.25920892562109105,
+    "legacy_app_extra_area_mm2": 0.16154596948670272,
+    "source_self_crossing": false,
+    "source_end_gaps_mm": [
+      5.165547560102198
+    ],
+    "app_extra_area_mm2": 0.0,
+    "app_missing_area_mm2": 0.0,
+    "app_boundary_difference_mm": 0.0
+  },
+  "h": {
+    "pass_dxf": true,
+    "rings": 1,
+    "holes": 0,
+    "regions": 1,
+    "duplicate_edges": 0,
+    "zero_edges": 0,
+    "ring_contacts": 0,
+    "symmetric_difference_mm2": 0.0,
+    "boundary_distance_mm": [
+      0.049996899999999976,
+      0.06151220974191233
+    ],
+    "cleanup_area_change_mm2": 0.1214071863330155,
+    "legacy_app_extra_area_mm2": 0.07895200313860756,
+    "source_self_crossing": false,
+    "source_end_gaps_mm": [
+      5.013908279160479
+    ],
+    "app_extra_area_mm2": 0.0,
+    "app_missing_area_mm2": 0.0,
+    "app_boundary_difference_mm": 0.0
+  },
+  "i": {
+    "pass_dxf": true,
+    "rings": 1,
+    "holes": 0,
+    "regions": 1,
+    "duplicate_edges": 0,
+    "zero_edges": 0,
+    "ring_contacts": 0,
+    "symmetric_difference_mm2": 0.0,
+    "boundary_distance_mm": [
+      0.03718478193790048,
+      0.06527044142926833
+    ],
+    "cleanup_area_change_mm2": 0.03586872605532339,
+    "legacy_app_extra_area_mm2": 0.03312257355213307,
+    "source_self_crossing": false,
+    "source_end_gaps_mm": [
+      3.155631785780602
+    ],
+    "app_extra_area_mm2": 0.0,
+    "app_missing_area_mm2": 0.0,
+    "app_boundary_difference_mm": 0.0
+  },
+  "j": {
+    "pass_dxf": true,
+    "rings": 1,
+    "holes": 0,
+    "regions": 1,
+    "duplicate_edges": 0,
+    "zero_edges": 0,
+    "ring_contacts": 0,
+    "symmetric_difference_mm2": 0.0,
+    "boundary_distance_mm": [
+      0.049572251451102486,
+      0.05067688751744971
+    ],
+    "cleanup_area_change_mm2": 0.05261874097633696,
+    "legacy_app_extra_area_mm2": 0.036203419599795575,
+    "source_self_crossing": false,
+    "source_end_gaps_mm": [
+      5.195486762592656
+    ],
+    "app_extra_area_mm2": 0.0,
+    "app_missing_area_mm2": 0.0,
+    "app_boundary_difference_mm": 0.0
+  },
+  "k": {
+    "pass_dxf": true,
+    "rings": 1,
+    "holes": 0,
+    "regions": 1,
+    "duplicate_edges": 0,
+    "zero_edges": 0,
+    "ring_contacts": 0,
+    "symmetric_difference_mm2": 0.0,
+    "boundary_distance_mm": [
+      0.04993019455977489,
+      0.05835509347263219
+    ],
+    "cleanup_area_change_mm2": 0.04587270510143092,
+    "legacy_app_extra_area_mm2": 0.04456335564311864,
+    "source_self_crossing": false,
+    "source_end_gaps_mm": [
+      2.644597010865928
+    ],
+    "app_extra_area_mm2": 0.0,
+    "app_missing_area_mm2": 0.0,
+    "app_boundary_difference_mm": 0.0
+  },
+  "l": {
+    "pass_dxf": true,
+    "rings": 1,
+    "holes": 0,
+    "regions": 1,
+    "duplicate_edges": 0,
+    "zero_edges": 0,
+    "ring_contacts": 0,
+    "symmetric_difference_mm2": 0.0,
+    "boundary_distance_mm": [
+      0.04956891478570955,
+      0.050987279292373705
+    ],
+    "cleanup_area_change_mm2": 0.018911480710894275,
+    "legacy_app_extra_area_mm2": 0.01872440338698341,
+    "source_self_crossing": false,
+    "source_end_gaps_mm": [
+      4.454790431943461
+    ],
+    "app_extra_area_mm2": 0.0,
+    "app_missing_area_mm2": 0.0,
+    "app_boundary_difference_mm": 0.0
+  },
+  "m": {
+    "pass_dxf": true,
+    "rings": 1,
+    "holes": 0,
+    "regions": 1,
+    "duplicate_edges": 0,
+    "zero_edges": 0,
+    "ring_contacts": 0,
+    "symmetric_difference_mm2": 0.0,
+    "boundary_distance_mm": [
+      0.049852100000000066,
+      0.05859529104039575
+    ],
+    "cleanup_area_change_mm2": 0.1304394922846393,
+    "legacy_app_extra_area_mm2": 0.09020730325267816,
+    "source_self_crossing": false,
+    "source_end_gaps_mm": [
+      3.882352
+    ],
+    "app_extra_area_mm2": 0.0,
+    "app_missing_area_mm2": 0.0,
+    "app_boundary_difference_mm": 0.0
+  },
+  "n": {
+    "pass_dxf": true,
+    "rings": 1,
+    "holes": 0,
+    "regions": 1,
+    "duplicate_edges": 0,
+    "zero_edges": 0,
+    "ring_contacts": 0,
+    "symmetric_difference_mm2": 0.0,
+    "boundary_distance_mm": [
+      0.049999956743223536,
+      0.05070717451866725
+    ],
+    "cleanup_area_change_mm2": 0.05608792405115298,
+    "legacy_app_extra_area_mm2": 0.041407624576294016,
+    "source_self_crossing": false,
+    "source_end_gaps_mm": [
+      2.294118
+    ],
+    "app_extra_area_mm2": 0.0,
+    "app_missing_area_mm2": 0.0,
+    "app_boundary_difference_mm": 0.0
+  },
+  "o": {
+    "pass_dxf": true,
+    "rings": 1,
+    "holes": 0,
+    "regions": 1,
+    "duplicate_edges": 0,
+    "zero_edges": 0,
+    "ring_contacts": 0,
+    "symmetric_difference_mm2": 0.0,
+    "boundary_distance_mm": [
+      0.04988128713973624,
+      0.05108852693008161
+    ],
+    "cleanup_area_change_mm2": 0.1971542853316497,
+    "legacy_app_extra_area_mm2": 0.1189666968625105,
+    "source_self_crossing": false,
+    "source_end_gaps_mm": [
+      0.2992013498158635
+    ],
+    "app_extra_area_mm2": 0.0,
+    "app_missing_area_mm2": 0.0,
+    "app_boundary_difference_mm": 0.0
+  },
+  "p": {
+    "pass_dxf": true,
+    "rings": 1,
+    "holes": 0,
+    "regions": 1,
+    "duplicate_edges": 0,
+    "zero_edges": 0,
+    "ring_contacts": 0,
+    "symmetric_difference_mm2": 0.0,
+    "boundary_distance_mm": [
+      0.049885581224720504,
+      0.05105483146277673
+    ],
+    "cleanup_area_change_mm2": 0.16423966904495554,
+    "legacy_app_extra_area_mm2": 0.10157014376515719,
+    "source_self_crossing": false,
+    "source_end_gaps_mm": [
+      1.806889284140672
+    ],
+    "app_extra_area_mm2": 0.0,
+    "app_missing_area_mm2": 0.0,
+    "app_boundary_difference_mm": 0.0
+  },
+  "q": {
+    "pass_dxf": true,
+    "rings": 1,
+    "holes": 0,
+    "regions": 1,
+    "duplicate_edges": 0,
+    "zero_edges": 0,
+    "ring_contacts": 0,
+    "symmetric_difference_mm2": 0.0,
+    "boundary_distance_mm": [
+      0.04953018065665905,
+      0.051061194587602485
+    ],
+    "cleanup_area_change_mm2": 0.1644745933945186,
+    "legacy_app_extra_area_mm2": 0.10176728744834132,
+    "source_self_crossing": false,
+    "source_end_gaps_mm": [
+      1.8257109045036661
+    ],
+    "app_extra_area_mm2": 0.0,
+    "app_missing_area_mm2": 0.0,
+    "app_boundary_difference_mm": 0.0
+  },
+  "r": {
+    "pass_dxf": true,
+    "rings": 1,
+    "holes": 0,
+    "regions": 1,
+    "duplicate_edges": 0,
+    "zero_edges": 0,
+    "ring_contacts": 0,
+    "symmetric_difference_mm2": 0.0,
+    "boundary_distance_mm": [
+      0.04955457352039399,
+      0.05102091914977449
+    ],
+    "cleanup_area_change_mm2": 0.044583436218432845,
+    "legacy_app_extra_area_mm2": 0.03382628206615896,
+    "source_self_crossing": false,
+    "source_end_gaps_mm": [
+      3.1332853919108423
+    ],
+    "app_extra_area_mm2": 0.0,
+    "app_missing_area_mm2": 0.0,
+    "app_boundary_difference_mm": 0.0
+  },
+  "s": {
+    "pass_dxf": true,
+    "rings": 1,
+    "holes": 0,
+    "regions": 1,
+    "duplicate_edges": 0,
+    "zero_edges": 0,
+    "ring_contacts": 0,
+    "symmetric_difference_mm2": 0.0,
+    "boundary_distance_mm": [
+      0.04986805418144736,
+      0.05187298444463097
+    ],
+    "cleanup_area_change_mm2": 0.13240343366643317,
+    "legacy_app_extra_area_mm2": 0.08531851174602122,
+    "source_self_crossing": false,
+    "source_end_gaps_mm": [
+      2.9936484627596864
+    ],
+    "app_extra_area_mm2": 0.0,
+    "app_missing_area_mm2": 0.0,
+    "app_boundary_difference_mm": 0.0
+  },
+  "t": {
+    "pass_dxf": true,
+    "rings": 1,
+    "holes": 0,
+    "regions": 1,
+    "duplicate_edges": 0,
+    "zero_edges": 0,
+    "ring_contacts": 0,
+    "symmetric_difference_mm2": 0.0,
+    "boundary_distance_mm": [
+      0.04955165465249535,
+      0.06151223363892749
+    ],
+    "cleanup_area_change_mm2": 0.06034127056177019,
+    "legacy_app_extra_area_mm2": 0.056276655745042786,
+    "source_self_crossing": false,
+    "source_end_gaps_mm": [
+      3.1295560300095877
+    ],
+    "app_extra_area_mm2": 0.0,
+    "app_missing_area_mm2": 0.0,
+    "app_boundary_difference_mm": 0.0
+  },
+  "u": {
+    "pass_dxf": true,
+    "rings": 1,
+    "holes": 0,
+    "regions": 1,
+    "duplicate_edges": 0,
+    "zero_edges": 0,
+    "ring_contacts": 0,
+    "symmetric_difference_mm2": 0.0,
+    "boundary_distance_mm": [
+      0.04999999999999982,
+      0.05074354559313202
+    ],
+    "cleanup_area_change_mm2": 0.06531262103306959,
+    "legacy_app_extra_area_mm2": 0.04625267313532734,
+    "source_self_crossing": false,
+    "source_end_gaps_mm": [
+      2.29629645253482
+    ],
+    "app_extra_area_mm2": 0.0,
+    "app_missing_area_mm2": 0.0,
+    "app_boundary_difference_mm": 0.0
+  },
+  "v": {
+    "pass_dxf": true,
+    "rings": 1,
+    "holes": 0,
+    "regions": 1,
+    "duplicate_edges": 0,
+    "zero_edges": 0,
+    "ring_contacts": 0,
+    "symmetric_difference_mm2": 0.0,
+    "boundary_distance_mm": [
+      0.04999999309498252,
+      0.06069800000028349
+    ],
+    "cleanup_area_change_mm2": 0.013078014466203458,
+    "legacy_app_extra_area_mm2": 0.016419363668574653,
+    "source_self_crossing": false,
+    "source_end_gaps_mm": [
+      2.294117
+    ],
+    "app_extra_area_mm2": 0.0,
+    "app_missing_area_mm2": 0.0,
+    "app_boundary_difference_mm": 0.0
+  },
+  "w": {
+    "pass_dxf": true,
+    "rings": 1,
+    "holes": 0,
+    "regions": 1,
+    "duplicate_edges": 0,
+    "zero_edges": 0,
+    "ring_contacts": 0,
+    "symmetric_difference_mm2": 0.0,
+    "boundary_distance_mm": [
+      0.04999409568588999,
+      0.06183175300195357
+    ],
+    "cleanup_area_change_mm2": 0.062198704869384926,
+    "legacy_app_extra_area_mm2": 0.048917109515458954,
+    "source_self_crossing": false,
+    "source_end_gaps_mm": [
+      3.85274497542155
+    ],
+    "app_extra_area_mm2": 0.0,
+    "app_missing_area_mm2": 0.0,
+    "app_boundary_difference_mm": 0.0
+  },
+  "x": {
+    "pass_dxf": true,
+    "rings": 1,
+    "holes": 0,
+    "regions": 1,
+    "duplicate_edges": 0,
+    "zero_edges": 0,
+    "ring_contacts": 0,
+    "symmetric_difference_mm2": 0.0,
+    "boundary_distance_mm": [
+      0.04999996539568493,
+      0.07818009999999975
+    ],
+    "cleanup_area_change_mm2": 0.011045753136566453,
+    "legacy_app_extra_area_mm2": 0.01240555839551103,
+    "source_self_crossing": false,
+    "source_end_gaps_mm": [
+      2.382353
+    ],
+    "app_extra_area_mm2": 0.0,
+    "app_missing_area_mm2": 0.0,
+    "app_boundary_difference_mm": 0.0
+  },
+  "y": {
+    "pass_dxf": true,
+    "rings": 1,
+    "holes": 0,
+    "regions": 1,
+    "duplicate_edges": 0,
+    "zero_edges": 0,
+    "ring_contacts": 0,
+    "symmetric_difference_mm2": 0.0,
+    "boundary_distance_mm": [
+      0.04988509972183603,
+      0.06302364276997886
+    ],
+    "cleanup_area_change_mm2": 0.06506271188300465,
+    "legacy_app_extra_area_mm2": 0.05001955389899856,
+    "source_self_crossing": false,
+    "source_end_gaps_mm": [
+      4.50000014500738
+    ],
+    "app_extra_area_mm2": 0.0,
+    "app_missing_area_mm2": 0.0,
+    "app_boundary_difference_mm": 0.0
+  },
+  "z": {
+    "pass_dxf": true,
+    "rings": 1,
+    "holes": 0,
+    "regions": 1,
+    "duplicate_edges": 0,
+    "zero_edges": 0,
+    "ring_contacts": 0,
+    "symmetric_difference_mm2": 0.0,
+    "boundary_distance_mm": [
+      0.04989694037401097,
+      0.059000009584147514
+    ],
+    "cleanup_area_change_mm2": 0.08598483751381103,
+    "legacy_app_extra_area_mm2": 0.05601644143618486,
+    "source_self_crossing": false,
+    "source_end_gaps_mm": [
+      3.6518754108826057
+    ],
+    "app_extra_area_mm2": 0.0,
+    "app_missing_area_mm2": 0.0,
+    "app_boundary_difference_mm": 0.0
+  }
+}

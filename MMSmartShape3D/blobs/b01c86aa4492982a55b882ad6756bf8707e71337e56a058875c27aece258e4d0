@@ -1,0 +1,441 @@
+{
+  "width_mm": 0.1,
+  "offset_mm": 0.05,
+  "reference_cap_height_mm": 7,
+  "glyphs": {
+    "0": {
+      "file": "48.dxf",
+      "centerline_paths": 1,
+      "regions": 1,
+      "closed_rings": 1,
+      "area_mm2": 2.2915675455263016
+    },
+    "1": {
+      "file": "49.dxf",
+      "centerline_paths": 1,
+      "regions": 1,
+      "closed_rings": 1,
+      "area_mm2": 0.956017044046417
+    },
+    "2": {
+      "file": "50.dxf",
+      "centerline_paths": 1,
+      "regions": 1,
+      "closed_rings": 1,
+      "area_mm2": 1.447683717548035
+    },
+    "3": {
+      "file": "51.dxf",
+      "centerline_paths": 1,
+      "regions": 1,
+      "closed_rings": 1,
+      "area_mm2": 1.4892934418380581
+    },
+    "4": {
+      "file": "52.dxf",
+      "centerline_paths": 1,
+      "regions": 1,
+      "closed_rings": 1,
+      "area_mm2": 1.6248069548432538
+    },
+    "5": {
+      "file": "53.dxf",
+      "centerline_paths": 1,
+      "regions": 1,
+      "closed_rings": 1,
+      "area_mm2": 1.7196088219628474
+    },
+    "6": {
+      "file": "54.dxf",
+      "centerline_paths": 1,
+      "regions": 1,
+      "closed_rings": 1,
+      "area_mm2": 2.036301114969711
+    },
+    "7": {
+      "file": "55.dxf",
+      "centerline_paths": 1,
+      "regions": 1,
+      "closed_rings": 1,
+      "area_mm2": 1.2520831643897146
+    },
+    "8": {
+      "file": "56.dxf",
+      "centerline_paths": 1,
+      "regions": 1,
+      "closed_rings": 1,
+      "area_mm2": 2.030212253472472
+    },
+    "9": {
+      "file": "57.dxf",
+      "centerline_paths": 2,
+      "regions": 1,
+      "closed_rings": 1,
+      "area_mm2": 1.6009016825868765
+    },
+    "A": {
+      "file": "65.dxf",
+      "centerline_paths": 1,
+      "regions": 1,
+      "closed_rings": 1,
+      "area_mm2": 1.910724524258416
+    },
+    "B": {
+      "file": "66.dxf",
+      "centerline_paths": 1,
+      "regions": 1,
+      "closed_rings": 1,
+      "area_mm2": 2.436900983845902
+    },
+    "C": {
+      "file": "67.dxf",
+      "centerline_paths": 1,
+      "regions": 1,
+      "closed_rings": 1,
+      "area_mm2": 1.606215006325192
+    },
+    "D": {
+      "file": "68.dxf",
+      "centerline_paths": 1,
+      "regions": 1,
+      "closed_rings": 1,
+      "area_mm2": 2.0069897279252484
+    },
+    "E": {
+      "file": "69.dxf",
+      "centerline_paths": 1,
+      "regions": 1,
+      "closed_rings": 1,
+      "area_mm2": 2.170078657379293
+    },
+    "F": {
+      "file": "70.dxf",
+      "centerline_paths": 1,
+      "regions": 1,
+      "closed_rings": 1,
+      "area_mm2": 1.6250902481750789
+    },
+    "G": {
+      "file": "71.dxf",
+      "centerline_paths": 1,
+      "regions": 1,
+      "closed_rings": 1,
+      "area_mm2": 1.7703883552385051
+    },
+    "H": {
+      "file": "72.dxf",
+      "centerline_paths": 1,
+      "regions": 1,
+      "closed_rings": 1,
+      "area_mm2": 2.490581111882916
+    },
+    "I": {
+      "file": "73.dxf",
+      "centerline_paths": 1,
+      "regions": 1,
+      "closed_rings": 1,
+      "area_mm2": 0.7000000000000001
+    },
+    "J": {
+      "file": "74.dxf",
+      "centerline_paths": 1,
+      "regions": 1,
+      "closed_rings": 1,
+      "area_mm2": 0.9118748999881039
+    },
+    "K": {
+      "file": "75.dxf",
+      "centerline_paths": 1,
+      "regions": 1,
+      "closed_rings": 1,
+      "area_mm2": 2.589674978388022
+    },
+    "L": {
+      "file": "76.dxf",
+      "centerline_paths": 1,
+      "regions": 1,
+      "closed_rings": 1,
+      "area_mm2": 1.0730010090141802
+    },
+    "M": {
+      "file": "77.dxf",
+      "centerline_paths": 1,
+      "regions": 1,
+      "closed_rings": 1,
+      "area_mm2": 2.3354531088118673
+    },
+    "N": {
+      "file": "78.dxf",
+      "centerline_paths": 1,
+      "regions": 1,
+      "closed_rings": 1,
+      "area_mm2": 2.10187398776256
+    },
+    "O": {
+      "file": "79.dxf",
+      "centerline_paths": 1,
+      "regions": 1,
+      "closed_rings": 1,
+      "area_mm2": 1.8501499190178696
+    },
+    "P": {
+      "file": "80.dxf",
+      "centerline_paths": 1,
+      "regions": 1,
+      "closed_rings": 1,
+      "area_mm2": 1.6856476611298985
+    },
+    "Q": {
+      "file": "81.dxf",
+      "centerline_paths": 1,
+      "regions": 1,
+      "closed_rings": 1,
+      "area_mm2": 2.164725471484498
+    },
+    "R": {
+      "file": "82.dxf",
+      "centerline_paths": 1,
+      "regions": 1,
+      "closed_rings": 1,
+      "area_mm2": 2.1654693624264496
+    },
+    "S": {
+      "file": "83.dxf",
+      "centerline_paths": 1,
+      "regions": 1,
+      "closed_rings": 1,
+      "area_mm2": 1.6578604586780654
+    },
+    "T": {
+      "file": "84.dxf",
+      "centerline_paths": 1,
+      "regions": 1,
+      "closed_rings": 1,
+      "area_mm2": 1.314743406767377
+    },
+    "U": {
+      "file": "85.dxf",
+      "centerline_paths": 1,
+      "regions": 1,
+      "closed_rings": 1,
+      "area_mm2": 1.6100581533093214
+    },
+    "V": {
+      "file": "86.dxf",
+      "centerline_paths": 1,
+      "regions": 1,
+      "closed_rings": 1,
+      "area_mm2": 1.418839437800004
+    },
+    "W": {
+      "file": "87.dxf",
+      "centerline_paths": 1,
+      "regions": 1,
+      "closed_rings": 1,
+      "area_mm2": 2.674429500444245
+    },
+    "X": {
+      "file": "88.dxf",
+      "centerline_paths": 1,
+      "regions": 1,
+      "closed_rings": 1,
+      "area_mm2": 2.2905039528
+    },
+    "Y": {
+      "file": "89.dxf",
+      "centerline_paths": 1,
+      "regions": 1,
+      "closed_rings": 1,
+      "area_mm2": 1.480808654611958
+    },
+    "Z": {
+      "file": "90.dxf",
+      "centerline_paths": 1,
+      "regions": 1,
+      "closed_rings": 1,
+      "area_mm2": 1.6062928942808918
+    },
+    "a": {
+      "file": "97.dxf",
+      "centerline_paths": 1,
+      "regions": 1,
+      "closed_rings": 1,
+      "area_mm2": 0.932898572968394
+    },
+    "b": {
+      "file": "98.dxf",
+      "centerline_paths": 1,
+      "regions": 1,
+      "closed_rings": 1,
+      "area_mm2": 1.043499594227399
+    },
+    "c": {
+      "file": "99.dxf",
+      "centerline_paths": 1,
+      "regions": 1,
+      "closed_rings": 1,
+      "area_mm2": 0.6639857894868197
+    },
+    "d": {
+      "file": "100.dxf",
+      "centerline_paths": 1,
+      "regions": 1,
+      "closed_rings": 1,
+      "area_mm2": 1.025322270358599
+    },
+    "e": {
+      "file": "101.dxf",
+      "centerline_paths": 1,
+      "regions": 1,
+      "closed_rings": 1,
+      "area_mm2": 0.9522697032644744
+    },
+    "f": {
+      "file": "102.dxf",
+      "centerline_paths": 1,
+      "regions": 1,
+      "closed_rings": 1,
+      "area_mm2": 0.7749864493367795
+    },
+    "g": {
+      "file": "103.dxf",
+      "centerline_paths": 1,
+      "regions": 1,
+      "closed_rings": 1,
+      "area_mm2": 1.2227034382177426
+    },
+    "h": {
+      "file": "104.dxf",
+      "centerline_paths": 1,
+      "regions": 1,
+      "closed_rings": 1,
+      "area_mm2": 1.1403044051778568
+    },
+    "i": {
+      "file": "105.dxf",
+      "centerline_paths": 1,
+      "regions": 1,
+      "closed_rings": 1,
+      "area_mm2": 0.48404829562541524
+    },
+    "j": {
+      "file": "106.dxf",
+      "centerline_paths": 1,
+      "regions": 1,
+      "closed_rings": 1,
+      "area_mm2": 0.5824379775848205
+    },
+    "k": {
+      "file": "107.dxf",
+      "centerline_paths": 1,
+      "regions": 1,
+      "closed_rings": 1,
+      "area_mm2": 1.1824270084233752
+    },
+    "l": {
+      "file": "108.dxf",
+      "centerline_paths": 1,
+      "regions": 1,
+      "closed_rings": 1,
+      "area_mm2": 0.47660616175274984
+    },
+    "m": {
+      "file": "109.dxf",
+      "centerline_paths": 1,
+      "regions": 1,
+      "closed_rings": 1,
+      "area_mm2": 1.3956003408613653
+    },
+    "n": {
+      "file": "110.dxf",
+      "centerline_paths": 1,
+      "regions": 1,
+      "closed_rings": 1,
+      "area_mm2": 0.7136682102794907
+    },
+    "o": {
+      "file": "111.dxf",
+      "centerline_paths": 1,
+      "regions": 1,
+      "closed_rings": 1,
+      "area_mm2": 0.8384394651498358
+    },
+    "p": {
+      "file": "112.dxf",
+      "centerline_paths": 1,
+      "regions": 1,
+      "closed_rings": 1,
+      "area_mm2": 1.039013731307741
+    },
+    "q": {
+      "file": "113.dxf",
+      "centerline_paths": 1,
+      "regions": 1,
+      "closed_rings": 1,
+      "area_mm2": 1.0420178531215363
+    },
+    "r": {
+      "file": "114.dxf",
+      "centerline_paths": 1,
+      "regions": 1,
+      "closed_rings": 1,
+      "area_mm2": 0.4255729974116701
+    },
+    "s": {
+      "file": "115.dxf",
+      "centerline_paths": 1,
+      "regions": 1,
+      "closed_rings": 1,
+      "area_mm2": 0.8330928179325696
+    },
+    "t": {
+      "file": "116.dxf",
+      "centerline_paths": 1,
+      "regions": 1,
+      "closed_rings": 1,
+      "area_mm2": 0.7700698637559598
+    },
+    "u": {
+      "file": "117.dxf",
+      "centerline_paths": 1,
+      "regions": 1,
+      "closed_rings": 1,
+      "area_mm2": 0.7237870105564104
+    },
+    "v": {
+      "file": "118.dxf",
+      "centerline_paths": 1,
+      "regions": 1,
+      "closed_rings": 1,
+      "area_mm2": 0.6127329846221151
+    },
+    "w": {
+      "file": "119.dxf",
+      "centerline_paths": 1,
+      "regions": 1,
+      "closed_rings": 1,
+      "area_mm2": 1.1370801430950246
+    },
+    "x": {
+      "file": "120.dxf",
+      "centerline_paths": 1,
+      "regions": 1,
+      "closed_rings": 1,
+      "area_mm2": 1.0679329505570996
+    },
+    "y": {
+      "file": "121.dxf",
+      "centerline_paths": 1,
+      "regions": 1,
+      "closed_rings": 1,
+      "area_mm2": 1.0968406281980645
+    },
+    "z": {
+      "file": "122.dxf",
+      "centerline_paths": 1,
+      "regions": 1,
+      "closed_rings": 1,
+      "area_mm2": 0.7894233010796099
+    }
+  }
+}
