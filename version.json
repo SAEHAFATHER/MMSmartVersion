@@ -1,6 +1,6 @@
 {
   "MMSmartShape3D": {
-    "version": "1.4.1",
+    "version": "1.4.2",
     "download_url": "https://cafe.naver.com/lasertalktalk/84",
     "patch_manifest_base": "https://raw.githubusercontent.com/SAEHAFATHER/MMSmartVersion/main/MMSmartShape3D/manifest",
     "patch_blobs_base": "https://raw.githubusercontent.com/SAEHAFATHER/MMSmartVersion/main/MMSmartShape3D/blobs"
